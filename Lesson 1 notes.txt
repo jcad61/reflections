@@ -1,0 +1,1 @@
+Use FC on windows to compare files or Diff on MAC or NIX
