@@ -1,1 +1,7 @@
 Use git init to create a new repository and git status to see information on the repository
+git status shows the current status of the repository
+When editing files this is done in the working area, when adding to the repository using 'git add' it copies it to the staging area and 'git commit' copies to the commited  
+Use git branch 'branch name' to create a new repository of the current code, then git checkout to switch to that branch
+Create repository in Github - this is known as 'remote' The command git remote allows you to view and add remote repositories
+If you only have one remote it is common to name it 'origin'
+Connect local to remote
